@@ -16,6 +16,8 @@ h3 {
     border-left-width:1px
     }
 
+img {float: left}
+
 .pp {
     border: 2px ridge #146809;
     }
